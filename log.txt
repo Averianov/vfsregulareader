@@ -1,0 +1,109 @@
+657.4205 sec:   Отображена группа изображений с индексом 3, scanNumber 4
+657.4371 sec:   Processing done
+657.4403 sec:   RPRM_Command_Process return code = 0x00000000
+657.4432 sec:   Перед началом сканирования группы: scanNumber=0, White=нет, IR=нет, UV=нет
+659.0663 sec:   Ищем группу изображений с номером сканирования 3
+659.0812 sec:   Найдена группа с индексом 2 для номера сканирования 3
+659.0987 sec:   Выбран элемент: индекс 2, scanNumber 3, найдена группа 2
+659.1123 sec:   Показываем группу изображений: индекс 2, номер сканирования 3
+659.1288 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 24
+659.1495 sec:   Отображено изображение White в PaintBox1
+659.1568 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 8
+659.1663 sec:   Отображено изображение IR в PaintBox2
+659.1719 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 24
+659.1837 sec:   Отображено изображение UV в PaintBox3
+659.1885 sec:   Отображена группа изображений с индексом 2, scanNumber 3
+661.6448 sec:   Удаление группы изображений: индекс 2, номер сканирования 3
+661.6484 sec:   Освобождаем изображение White
+661.6534 sec:   Освобождаем изображение IR
+661.6571 sec:   Освобождаем изображение UV
+661.6626 sec:   Удаляем элемент из ListView: индекс 2, номер сканирования 3
+661.8200 sec:   Ищем группу изображений с номером сканирования 1
+661.8230 sec:   Найдена группа с индексом 0 для номера сканирования 1
+661.8261 sec:   Выбран элемент: индекс 0, scanNumber 1, найдена группа 0
+661.8292 sec:   Показываем группу изображений: индекс 0, номер сканирования 1
+661.8363 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 24
+661.8474 sec:   Отображено изображение White в PaintBox1
+661.8522 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 8
+661.8577 sec:   Отображено изображение IR в PaintBox2
+661.8610 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 24
+661.8728 sec:   Отображено изображение UV в PaintBox3
+661.8762 sec:   Отображена группа изображений с индексом 0, scanNumber 1
+661.8795 sec:   Ищем группу изображений с номером сканирования 1
+661.8826 sec:   Найдена группа с индексом 0 для номера сканирования 1
+661.8859 sec:   Показываем группу изображений: индекс 0, номер сканирования 1
+661.8928 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 24
+661.9047 sec:   Отображено изображение White в PaintBox1
+661.9080 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 8
+661.9141 sec:   Отображено изображение IR в PaintBox2
+661.9176 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 24
+661.9287 sec:   Отображено изображение UV в PaintBox3
+661.9320 sec:   Отображена группа изображений с индексом 0, scanNumber 1
+661.9354 sec:   Удалена группа изображений с индексом 2, scanNumber 3
+661.9389 sec:   Ищем группу изображений с номером сканирования 2
+661.9419 sec:   Найдена группа с индексом 1 для номера сканирования 2
+661.9449 sec:   Выбран элемент: индекс 1, scanNumber 2, найдена группа 1
+661.9480 sec:   Показываем группу изображений: индекс 1, номер сканирования 2
+661.9552 sec:   Requesting AllocRawImageContainer with Width: 2592, Height: 1944, BitCount: 24
+661.9672 sec:   Отображено изображение White в PaintBox1
+661.9719 sec:   Requesting AllocRawImageContainer with Width: 2592, Height: 1944, BitCount: 8
+661.9770 sec:   Отображено изображение IR в PaintBox2
+661.9807 sec:   Requesting AllocRawImageContainer with Width: 2592, Height: 1944, BitCount: 24
+661.9930 sec:   Отображено изображение UV в PaintBox3
+661.9965 sec:   Отображена группа изображений с индексом 1, scanNumber 2
+667.8065 sec:   Начато новое сканирование с номером: 5
+667.8108 sec:   Добавлено значение освещения для сканирования: 6
+667.8142 sec:   Добавлено значение освещения для сканирования: 24
+667.8175 sec:   Добавлено значение освещения для сканирования: 128
+667.8281 sec:   Scanning started
+668.5728 sec:   Processing started
+669.3011 sec:   The document can be removed
+669.3042 sec:   Scanning completed
+669.3131 sec:   Получено изображение с освещением: 0x00000018, IR (IRt), размер 2592x1944
+669.3164 sec:   Requesting AllocRawImageContainer with Width: 2592, Height: 1944, BitCount: 8
+669.3213 sec:   Requesting AllocRawImageContainer with Width: 2592, Height: 1944, BitCount: 8
+669.3275 sec:   Изображение с освещением IR отображено в PaintBox2
+669.3312 sec:   Добавление изображения: тип света 24, описание IR (IRt), scanNumber 5
+669.3342 sec:   Добавлено IR изображение во временную группу, scanNumber 5
+669.3371 sec:   Состояние временной группы scanNumber=5: White=нет, IR=есть, UV=нет
+669.3401 sec:   Временная группа еще не заполнена полностью
+669.3468 sec:   Получено изображение с освещением: 0x00000006, White (Wt), размер 2592x1944
+669.3498 sec:   Requesting AllocRawImageContainer with Width: 2592, Height: 1944, BitCount: 24
+669.3612 sec:   Requesting AllocRawImageContainer with Width: 2592, Height: 1944, BitCount: 24
+669.3721 sec:   Изображение с освещением White отображено в PaintBox1
+669.3757 sec:   Добавление изображения: тип света 6, описание White (Wt), scanNumber 5
+669.3788 sec:   Добавлено White изображение во временную группу, scanNumber 5
+669.3819 sec:   Состояние временной группы scanNumber=5: White=есть, IR=есть, UV=нет
+669.3849 sec:   Временная группа еще не заполнена полностью
+669.3879 sec:   Получено изображение с освещением: 0x00000080, UV, размер 2592x1944
+669.3911 sec:   Requesting AllocRawImageContainer with Width: 2592, Height: 1944, BitCount: 24
+669.4022 sec:   Requesting AllocRawImageContainer with Width: 2592, Height: 1944, BitCount: 24
+669.4134 sec:   Изображение с освещением UV отображено в PaintBox3
+669.4167 sec:   Добавление изображения: тип света 128, описание UV, scanNumber 5
+669.4198 sec:   Добавлено UV изображение во временную группу, scanNumber 5
+669.4229 sec:   Состояние временной группы scanNumber=5: White=есть, IR=есть, UV=есть
+669.4306 sec:   Временная группа заполнена полностью, добавляем в основной список и в ListView
+669.4732 sec:   Группа с номером сканирования 5 добавлена в ListView, индекс группы 3, номер в списке 4
+669.4768 sec:   Поворот четвертого изображения влево
+669.6206 sec:   Обновлена миниатюра в ListView для группы 3, scanNumber 5
+669.6239 sec:   Показываем группу изображений: индекс 3, номер сканирования 5
+669.6315 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 24
+669.6428 sec:   Отображено изображение White в PaintBox1
+669.6466 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 8
+669.6520 sec:   Отображено изображение IR в PaintBox2
+669.6554 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 24
+669.6661 sec:   Отображено изображение UV в PaintBox3
+669.6696 sec:   Отображена группа изображений с индексом 3, scanNumber 5
+669.6728 sec:   Повернуты изображения в группе 3 против часовой стрелки
+669.6762 sec:   Имитируем выбор последнего добавленного элемента в ListView1
+669.6795 sec:   Показываем группу изображений: индекс 3, номер сканирования 5
+669.6861 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 24
+669.6975 sec:   Отображено изображение White в PaintBox1
+669.7009 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 8
+669.7060 sec:   Отображено изображение IR в PaintBox2
+669.7098 sec:   Requesting AllocRawImageContainer with Width: 1944, Height: 2592, BitCount: 24
+669.7204 sec:   Отображено изображение UV в PaintBox3
+669.7238 sec:   Отображена группа изображений с индексом 3, scanNumber 5
+669.7424 sec:   Processing done
+669.7455 sec:   RPRM_Command_Process return code = 0x00000000
+669.7485 sec:   Перед началом сканирования группы: scanNumber=0, White=нет, IR=нет, UV=нет
